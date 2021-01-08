@@ -1,0 +1,2 @@
+This app displays images of 2 dice. On clicking any of the two buttons the image of the dice will change randomly simulating results as when you roll 2 dice.
+The images used for this project are uploaded. One must also make changes to the pubspec.yaml folder, which I have not shown here but done.
